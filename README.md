@@ -21,4 +21,6 @@ While **banking client attributes** (e.g., `age`, `job`, `education`, `marital`,
 These insights support a practical targeting strategy: **rank customers by predicted probability and focus outreach on the top-scored segment**, improving conversion while reducing wasted calls.
 
 ### Notebook
-- Full analysis and experiments are available here: **[Jupyter Notebook Placeholder](<LINK_TO_NOTEBOOK_HERE>)**
+- Full analysis and experiments are available here: **[Jupyter Notebook Placeholder](<ACM_ComparingClassifiers_17.ipynb>)**
+### Data Set
+- Data set is available here: **
